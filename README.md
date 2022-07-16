@@ -9,6 +9,7 @@ Just create a title of your todo, describe it with a sentence and choose between
 status, Todo, Doing or Done
 
 ## Screenshot of the app.
+![Screenshot from 2022-07-16 16-07-45](https://user-images.githubusercontent.com/47100064/179356688-508022f3-17a7-4091-9564-21edc4e8dd4b.png)
 
 
 ## Built With
